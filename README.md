@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hei, jeg er Danial 👋
 
-<!--
-**DanialAhm/DanialAhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Førsteårs bachelorstudent i IT ved Universitetet i Agder (UiA), basert i Kristiansand 🇳🇴
+18 år, med afghanske røtter 🇦🇫. Når jeg ikke koder eller driver med e-handel, finner du meg som regel på fotballbanen ⚽
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **my own e-commerce stores (dropshipping)**
+- 👯 I'm looking to collaborate on **IT- og e-handelsprosjekter**
+- 🤔 I'm looking for help with **å bli bedre i programmering og webutvikling**
+- 💬 Ask me about **e-commerce, dropshipping eller fotball**
+- 📫 How to reach me: **<din 07danialahmadi@gmail.com>**
+
+---
+
+### 🔗 Lenker
