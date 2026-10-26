@@ -9,7 +9,7 @@ Førsteårs bachelorstudent i IT ved Universitetet i Agder (UiA), basert i Krist
 - 👯 I'm looking to collaborate on **IT- og e-handelsprosjekter**
 - 🤔 I'm looking for help with **å bli bedre i programmering og webutvikling**
 - 💬 Ask me about **e-commerce, dropshipping eller fotball**
-- 📫 How to reach me: **<din 07danialahmadi@gmail.com>**
+- 📫 How to reach me: **<07danialahmadi@gmail.com>**
 
 ---
 
